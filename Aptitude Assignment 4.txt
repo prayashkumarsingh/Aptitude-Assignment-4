@@ -1,0 +1,107 @@
+Q1-ANS
+
+
+Let's assume the capacity of the tank is "C" liters.
+
+We know that the leak can empty the full tank in 6 hours. Therefore, the leak rate can be calculated as C/6 liters per hour.
+
+When the tank is full and the inlet pipe is opened, the water filling rate is 4 liters per minute, which is equivalent to (4 * 60) = 240 liters per hour.
+
+Given that the tank is emptied in 8 hours when both the inlet and the leak are active, we can set up the following equation:
+
+Filling rate - Leakage rate = Emptying rate
+
+240 - (C/6) = C/8
+
+Multiplying through by 24 to clear the fractions:
+
+5760 - 4C = 3C
+
+Combining like terms:
+
+7C = 5760
+
+Dividing both sides by 7:
+
+C = 5760 / 7
+
+C ≈ 822.86
+
+Therefore, the capacity of the tank is approximately 822.86 liters.
+
+
+
+
+
+Q2-Ans
+
+
+Number of male in a town = 60 x 1000/100 = 600
+Number of females in a town -- 1000 - 600 = 400
+Total number of literate people = 25 x 1000/100 = 250
+Number of literate males = 20 x 600/100 = 120
+So the number of literate females are - 250 - 120 = 130
+Percent of literate female in a town = 130 x 100/400 = 32.5
+
+
+
+
+
+Q3-ANS
+
+
+Students passed in English = 80%
+Students passed in Math's = 85%
+Students passed in both subjects = 73%
+Then, number of students passed in at least one subject
+= (80+85)-73
+= 92%. [The percentage of students passed in English and Maths individually, have already included the percentage of students passed in both subjects. So, We are subtracting percentage of students who have passed in both subjects to find out percentage of students at least passed in one subject.]
+
+Thus, students failed in both subjects = 100-92 = 8%.
+
+
+
+
+
+
+Q4-ANS
+
+
+Complete step-by-step answer:
+Monthly income of a person = Rs. 13,500.
+His monthly expenditure was = Rs. 9,000.
+
+So the saving of the person is the difference of monthly income and monthly expenditure.
+Therefore saving = 13,500 – 9,000 = Rs. 4,500.
+Now next year his income has increased by 14%.
+
+Therefore his new monthly income = previous monthly income + 14% of previous monthly income
+Therefore his new monthly income = 13500+14100×13500=15390Rs.
+Now next year his monthly expenditure has increased by 7%.
+Therefore his new monthly expenditure = previous monthly expenditure + 7% of previous monthly expenditure.
+Therefore his new monthly expenditure = 9000+7100×9000=9630Rs.
+
+
+So the new savings of the person is the difference of new monthly income and new monthly expenditure.
+Therefore new monthly saving = 15,390 – 9,630 = Rs. 5,760.
+So the increase in saving = new monthly saving – previous monthly saving.
+So the increase in saving = 5,760 – 4,500 = Rs. 1,260
+So the percentage increase in saving is the ratio of increase in the saving to the previous monthly saving multiplied by 100.
+Therefore % increase in monthly saving = 12604500×100
+ Therefore % increase in monthly saving = 28%.
+So this is the required percentage increase in the monthly saving.
+
+
+
+
+Q5-ANS
+
+
+
+49 pumps can empty a tank in 10 days, working 10 hours a day. This means that the pumps can empty 1/10 of the tank in 1 day, working 10 hours a day. If 70 pumps are used for 7 hours each day, then the pumps can empty 1/10 * 70/49 * 7/10 = 1/5 of the tank in 1 day. Therefore, the tank can be emptied in 5 days.
+
+
+
+
+
+
